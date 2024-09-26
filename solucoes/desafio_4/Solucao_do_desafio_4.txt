@@ -1,0 +1,26 @@
+4) Descubra a lógica e complete o próximo elemento:
+a) 1, 3, 5, 7, ___
+b) 2, 4, 8, 16, 32, 64, ____
+c) 0, 1, 4, 9, 16, 25, 36, ____
+d) 4, 16, 36, 64, ____
+e) 1, 1, 2, 3, 5, 8, ____
+f) 2,10, 12, 16, 17, 18, 19, ____
+
+a)1,3,5,7,9
+-No problema a temos uma progessão aritmetica simples de 2.
+
+b)2,4,8,16,32,64,128
+-No problema b temos uma progessão aritmetica onde o proximo numero é o dobro do anterior
+
+c)0,1,4,9,16,25,36,49
+no problema c temos uma progressão aritmetica dos impares onde o numero é somado com o proximo
+impar começando com 1 (1,3,5,7,9...).
+
+d)4,16,36,64,100
+no problema d temos uma progressão aritmetica do quadrado dos pares, quadrado de 2,4,6,10...
+
+e)1,1,2,3,5,8,13
+no problema e temos a sequencia de fibonacci
+
+f)2,10,12,16,17,18,19,21
+consegui supor o proximo numero mas não encontrar uma sequencia aqui :(
